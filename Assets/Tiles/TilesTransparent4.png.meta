@@ -1,0 +1,2195 @@
+fileFormatVersion: 2
+guid: f38a819c45bcc08468bf060c4e476688
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7866134130038515403
+    second: TilesTransparent4_0
+  - first:
+      213: 7694276526498586547
+    second: TilesTransparent4_1
+  - first:
+      213: -5299247423729158033
+    second: TilesTransparent4_2
+  - first:
+      213: -5896692638802186050
+    second: TilesTransparent4_3
+  - first:
+      213: -5987900617486652836
+    second: TilesTransparent4_4
+  - first:
+      213: -8150453955197956892
+    second: TilesTransparent4_5
+  - first:
+      213: -669323375042743655
+    second: TilesTransparent4_6
+  - first:
+      213: 2419628950876147321
+    second: TilesTransparent4_7
+  - first:
+      213: -7150403136501108609
+    second: TilesTransparent4_8
+  - first:
+      213: -4798327656068557464
+    second: TilesTransparent4_9
+  - first:
+      213: 3254546550942262540
+    second: TilesTransparent4_10
+  - first:
+      213: -8773597216872350010
+    second: TilesTransparent4_11
+  - first:
+      213: 6061671823781467962
+    second: TilesTransparent4_12
+  - first:
+      213: -9003497944731830183
+    second: TilesTransparent4_13
+  - first:
+      213: 7908941880229069283
+    second: TilesTransparent4_14
+  - first:
+      213: 3539067957308264255
+    second: TilesTransparent4_15
+  - first:
+      213: 4680239655783436970
+    second: TilesTransparent4_16
+  - first:
+      213: -5088944955004005597
+    second: TilesTransparent4_17
+  - first:
+      213: -8480752660899315213
+    second: TilesTransparent4_18
+  - first:
+      213: -6791691944226446029
+    second: TilesTransparent4_19
+  - first:
+      213: 6248772765142770899
+    second: TilesTransparent4_20
+  - first:
+      213: 9091357530939726314
+    second: TilesTransparent4_21
+  - first:
+      213: 8504411307231758126
+    second: TilesTransparent4_22
+  - first:
+      213: -1770811071549746732
+    second: TilesTransparent4_23
+  - first:
+      213: 3340547004278978727
+    second: TilesTransparent4_24
+  - first:
+      213: 8936628154817250819
+    second: TilesTransparent4_25
+  - first:
+      213: -7101653056885364404
+    second: TilesTransparent4_26
+  - first:
+      213: 2623841291138946891
+    second: TilesTransparent4_27
+  - first:
+      213: 3031660345850373948
+    second: TilesTransparent4_28
+  - first:
+      213: 1583878493848814147
+    second: TilesTransparent4_29
+  - first:
+      213: -5742581197162158885
+    second: TilesTransparent4_30
+  - first:
+      213: -2304875954897968425
+    second: TilesTransparent4_31
+  - first:
+      213: 3720026319510623262
+    second: TilesTransparent4_32
+  - first:
+      213: -8381439622585586236
+    second: TilesTransparent4_0
+  - first:
+      213: -2618645716172333264
+    second: TilesTransparent4_1
+  - first:
+      213: -5024936208152632431
+    second: TilesTransparent4_2
+  - first:
+      213: 2715155634441791546
+    second: TilesTransparent4_3
+  - first:
+      213: -1823807694782694299
+    second: TilesTransparent4_4
+  - first:
+      213: -3444966221130669525
+    second: TilesTransparent4_5
+  - first:
+      213: -7049324254803169904
+    second: TilesTransparent4_6
+  - first:
+      213: 1559632052236352234
+    second: TilesTransparent4_7
+  - first:
+      213: 3732051829825662124
+    second: TilesTransparent4_8
+  - first:
+      213: 2445159297554511638
+    second: TilesTransparent4_9
+  - first:
+      213: 2229565979167637442
+    second: TilesTransparent4_10
+  - first:
+      213: -8577056276802775379
+    second: TilesTransparent4_11
+  - first:
+      213: 5455339304423016629
+    second: TilesTransparent4_12
+  - first:
+      213: -1533634669861477267
+    second: TilesTransparent4_13
+  - first:
+      213: -7931529820986497514
+    second: TilesTransparent4_14
+  - first:
+      213: -4018276335449850578
+    second: TilesTransparent4_15
+  - first:
+      213: -2404607191893739975
+    second: TilesTransparent4_16
+  - first:
+      213: 6748463015784527029
+    second: TilesTransparent4_17
+  - first:
+      213: 5384821040937336502
+    second: TilesTransparent4_18
+  - first:
+      213: 5373652334949957576
+    second: TilesTransparent4_19
+  - first:
+      213: -2771577598252155520
+    second: TilesTransparent4_20
+  - first:
+      213: 4115802589468909297
+    second: TilesTransparent4_21
+  - first:
+      213: -3272372184366616351
+    second: TilesTransparent4_22
+  - first:
+      213: 8296787345043910711
+    second: TilesTransparent4_23
+  - first:
+      213: -3447529858686510083
+    second: TilesTransparent4_24
+  - first:
+      213: 8096884588265081523
+    second: TilesTransparent4_25
+  - first:
+      213: -5430344458827370371
+    second: TilesTransparent4_26
+  - first:
+      213: -4078506442289570670
+    second: TilesTransparent4_27
+  - first:
+      213: 7666721759733800586
+    second: TilesTransparent4_28
+  - first:
+      213: -2547415891458691619
+    second: TilesTransparent4_29
+  - first:
+      213: 8457125041133027399
+    second: TilesTransparent4_30
+  - first:
+      213: 3205047726361464592
+    second: TilesTransparent4_31
+  - first:
+      213: -2600342611818337539
+    second: TilesTransparent4_32
+  - first:
+      213: -3014018366090354222
+    second: TilesTransparent4_33
+  - first:
+      213: 2875139170025181050
+    second: TilesTransparent4_33
+  - first:
+      213: -4018391348275972951
+    second: TilesTransparent4_34
+  - first:
+      213: -2120395501021036099
+    second: TilesTransparent4_35
+  - first:
+      213: -3533738548206168569
+    second: TilesTransparent4_36
+  - first:
+      213: 713495699075816865
+    second: TilesTransparent4_37
+  - first:
+      213: 354363390234728128
+    second: TilesTransparent4_38
+  - first:
+      213: 8598122735839939825
+    second: TilesTransparent4_39
+  - first:
+      213: -4980010285912317912
+    second: TilesTransparent4_40
+  - first:
+      213: 4331117526869301594
+    second: TilesTransparent4_41
+  - first:
+      213: -3128355468631195675
+    second: TilesTransparent4_42
+  - first:
+      213: 8951047802466611531
+    second: TilesTransparent4_43
+  - first:
+      213: -2931577085937980553
+    second: TilesTransparent4_44
+  - first:
+      213: -6755692845775962239
+    second: TilesTransparent4_45
+  - first:
+      213: -9184969032242812489
+    second: TilesTransparent4_46
+  - first:
+      213: 4896280575186553800
+    second: TilesTransparent4_47
+  - first:
+      213: 5375388617522966127
+    second: TilesTransparent4_48
+  - first:
+      213: -7171997205808943660
+    second: TilesTransparent4_49
+  - first:
+      213: -6791524053364329322
+    second: TilesTransparent4_50
+  - first:
+      213: -2842919911819591389
+    second: TilesTransparent4_51
+  - first:
+      213: 4790087798783069972
+    second: TilesTransparent4_52
+  - first:
+      213: -3856499142528250296
+    second: TilesTransparent4_53
+  - first:
+      213: -852286523509202626
+    second: TilesTransparent4_54
+  - first:
+      213: -8619898245371547988
+    second: TilesTransparent4_55
+  - first:
+      213: 1970793965864488987
+    second: TilesTransparent4_56
+  - first:
+      213: -7528734302119878936
+    second: TilesTransparent4_57
+  - first:
+      213: -2607003156110902937
+    second: TilesTransparent4_58
+  - first:
+      213: 5576368458130420482
+    second: TilesTransparent4_59
+  - first:
+      213: 6927031869849201967
+    second: TilesTransparent4_60
+  - first:
+      213: -6978944633208136313
+    second: TilesTransparent4_61
+  - first:
+      213: 5885786524185602522
+    second: TilesTransparent4_62
+  - first:
+      213: 45647418302317648
+    second: TilesTransparent4_63
+  - first:
+      213: -342711245479591530
+    second: TilesTransparent4_64
+  - first:
+      213: 4331694195268491786
+    second: TilesTransparent4_65
+  - first:
+      213: -3541756125701258680
+    second: TilesTransparent4_66
+  - first:
+      213: 7782834972584386359
+    second: TilesTransparent4_67
+  - first:
+      213: -8675340992210595645
+    second: TilesTransparent4_68
+  - first:
+      213: -8650435095033206356
+    second: TilesTransparent4_69
+  - first:
+      213: 4262206400698560406
+    second: TilesTransparent4_70
+  - first:
+      213: -3753365720738161269
+    second: TilesTransparent4_71
+  - first:
+      213: -5488970125597416736
+    second: TilesTransparent4_72
+  - first:
+      213: -1184636428849252295
+    second: TilesTransparent4_73
+  - first:
+      213: 6009379916374609909
+    second: TilesTransparent4_74
+  - first:
+      213: -4400116397280717228
+    second: TilesTransparent4_75
+  - first:
+      213: -197931099339752281
+    second: TilesTransparent4_76
+  - first:
+      213: 4067802472677197583
+    second: TilesTransparent4_34
+  - first:
+      213: -8706282101655844110
+    second: TilesTransparent4_35
+  - first:
+      213: -1712882683320742933
+    second: TilesTransparent4_36
+  - first:
+      213: -7136472147269705373
+    second: TilesTransparent4_37
+  - first:
+      213: 4390381878161731942
+    second: TilesTransparent4_38
+  - first:
+      213: -286160703760851537
+    second: TilesTransparent4_39
+  - first:
+      213: 6962790787263525321
+    second: TilesTransparent4_40
+  - first:
+      213: -4163025277481343103
+    second: TilesTransparent4_41
+  - first:
+      213: 7013756997771825126
+    second: TilesTransparent4_42
+  - first:
+      213: -7872507544142666438
+    second: TilesTransparent4_43
+  - first:
+      213: -7110037709666504483
+    second: TilesTransparent4_44
+  - first:
+      213: 7184824218936269226
+    second: TilesTransparent4_45
+  - first:
+      213: -842480497859792563
+    second: TilesTransparent4_46
+  - first:
+      213: 6215348075254876511
+    second: TilesTransparent4_47
+  - first:
+      213: -3056524256090824716
+    second: TilesTransparent4_48
+  - first:
+      213: -615937980459084131
+    second: TilesTransparent4_49
+  - first:
+      213: -976999637829386432
+    second: TilesTransparent4_50
+  - first:
+      213: 5263239587048287295
+    second: TilesTransparent4_51
+  - first:
+      213: -7378102150682033440
+    second: TilesTransparent4_52
+  - first:
+      213: -8439261662726985766
+    second: TilesTransparent4_53
+  - first:
+      213: 2505740186456527485
+    second: TilesTransparent4_54
+  - first:
+      213: -5376295392817453393
+    second: TilesTransparent4_55
+  - first:
+      213: -355976974439054704
+    second: TilesTransparent4_56
+  - first:
+      213: -2917186832208927519
+    second: TilesTransparent4_57
+  - first:
+      213: -6709691063268155769
+    second: TilesTransparent4_58
+  - first:
+      213: -2561230229502409609
+    second: TilesTransparent4_59
+  - first:
+      213: -3186458632868372095
+    second: TilesTransparent4_60
+  - first:
+      213: -3914226984211105845
+    second: TilesTransparent4_61
+  - first:
+      213: -4648281903851489035
+    second: TilesTransparent4_62
+  - first:
+      213: -2389364712063386253
+    second: TilesTransparent4_63
+  - first:
+      213: -7403864462247531469
+    second: TilesTransparent4_64
+  - first:
+      213: 1041451572172721883
+    second: TilesTransparent4_65
+  - first:
+      213: -2304708692289497500
+    second: TilesTransparent4_66
+  - first:
+      213: -7347073482699659406
+    second: TilesTransparent4_67
+  - first:
+      213: -2165601960796119727
+    second: TilesTransparent4_68
+  - first:
+      213: 6514329549140226722
+    second: TilesTransparent4_69
+  - first:
+      213: -1650864628278928527
+    second: TilesTransparent4_70
+  - first:
+      213: 7393323445040273602
+    second: TilesTransparent4_71
+  - first:
+      213: -5273991176022024376
+    second: TilesTransparent4_72
+  - first:
+      213: 3421244094967697846
+    second: TilesTransparent4_73
+  - first:
+      213: 2165344393152292160
+    second: TilesTransparent4_74
+  - first:
+      213: -1570483174311480004
+    second: TilesTransparent4_75
+  - first:
+      213: 7405094147050299032
+    second: TilesTransparent4_76
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilesTransparent4_0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cde66de1152fab80800000000000000
+      internalID: -8381439622585586236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f13f66893b8abd0800000000000000
+      internalID: -2618645716172333264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_2
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1182
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19360165427d34ab0800000000000000
+      internalID: -5024936208152632431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1191
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38adccf9ab2ea520800000000000000
+      internalID: 2715155634441791546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_4
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1192
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c7ad5809880b6e0800000000000000
+      internalID: -1823807694782694299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_5
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22694e59750130d0800000000000000
+      internalID: -3444966221130669525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_6
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1191
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d69ed60f4cb2e90800000000000000
+      internalID: -7049324254803169904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea7cd5961de4a510800000000000000
+      internalID: 1559632052236352234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_8
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1184
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacea10bd59eac330800000000000000
+      internalID: 3732051829825662124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_9
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617faf51d63fee120800000000000000
+      internalID: 2445159297554511638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_10
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1182
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf359ff17201fe10800000000000000
+      internalID: 2229565979167637442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_11
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6d2aa62cc28f880800000000000000
+      internalID: -8577056276802775379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_12
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1180
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b84c59913245bb40800000000000000
+      internalID: 5455339304423016629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_13
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1169
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64eeafa46f67bae0800000000000000
+      internalID: -1533634669861477267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_14
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1164
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616aeae96ab8de190800000000000000
+      internalID: -7931529820986497514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d372076f63c38c0800000000000000
+      internalID: -4018276335449850578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_16
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1158
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936f2d6cf7e11aed0800000000000000
+      internalID: -2404607191893739975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_17
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1167
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4b2b3ab5b57ad50800000000000000
+      internalID: 6748463015784527029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be7e1ce43ababa40800000000000000
+      internalID: 5384821040937336502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_19
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1157
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cff32be35c039a40800000000000000
+      internalID: 5373652334949957576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dffbcdbd06989d0800000000000000
+      internalID: -2771577598252155520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe5dee06a44e1930800000000000000
+      internalID: 4115802589468909297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_22
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1155
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e075f906d23692d0800000000000000
+      internalID: -3272372184366616351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_23
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7307c4ec12c142370800000000000000
+      internalID: 8296787345043910711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_24
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb107cfbd9e720d0800000000000000
+      internalID: -3447529858686510083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_25
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1137
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba00e642a9ed5070800000000000000
+      internalID: 8096884588265081523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_26
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1148
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7075936c7a83a4b0800000000000000
+      internalID: -5430344458827370371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_27
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1131
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c1035effb3667c0800000000000000
+      internalID: -4078506442289570670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_28
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ed0b802daa56a60800000000000000
+      internalID: 7666721759733800586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_29
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd6b665eb2c5acd0800000000000000
+      internalID: -2547415891458691619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_30
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7408bc9ca6ebd5570800000000000000
+      internalID: 8457125041133027399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_31
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1129
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fc2f11ded9a7c20800000000000000
+      internalID: 3205047726361464592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_32
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaa148fb2ab9ebd0800000000000000
+      internalID: -2600342611818337539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_33
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f892d87db86e720800000000000000
+      internalID: 2875139170025181050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_34
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f074168fbccb37830800000000000000
+      internalID: 4067802472677197583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1112
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa46707e821d2780800000000000000
+      internalID: -8706282101655844110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_36
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebcfb6564e9a38e0800000000000000
+      internalID: -1712882683320742933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_37
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1115
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3612588846826fc90800000000000000
+      internalID: -7136472147269705373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_38
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1100
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66174249e05cdec30800000000000000
+      internalID: 4390381878161731942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_39
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1103
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad98a72b5a570cf0800000000000000
+      internalID: -286160703760851537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_40
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1103
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c17430a45dc0a060800000000000000
+      internalID: 6962790787263525321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_41
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1100
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187a0c81196f936c0800000000000000
+      internalID: -4163025277481343103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_42
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1103
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef891934ded55160800000000000000
+      internalID: 7013756997771825126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a352bc3591c3fb290800000000000000
+      internalID: -7872507544142666438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_44
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd032b7af52145d90800000000000000
+      internalID: -7110037709666504483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_45
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9d15f6f8f95b360800000000000000
+      internalID: 7184824218936269226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 900
+        width: 98
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d417fda6378ee44f0800000000000000
+      internalID: -842480497859792563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_47
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5989f4e42a514650800000000000000
+      internalID: 6215348075254876511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_48
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff575c126b0595d0800000000000000
+      internalID: -3056524256090824716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_49
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96901f8bafb377f0800000000000000
+      internalID: -615937980459084131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_50
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 981
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f7e7971000172f0800000000000000
+      internalID: -976999637829386432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c69c1c488ca0940800000000000000
+      internalID: 5263239587048287295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e24d005f27bb9990800000000000000
+      internalID: -7378102150682033440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_53
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 700
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7e59a1b38b1ea80800000000000000
+      internalID: -8439261662726985766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 700
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7299217c6d26c220800000000000000
+      internalID: 2505740186456527485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_55
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 700
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6eb8733df8365b0800000000000000
+      internalID: -5376295392817453393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_56
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 700
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092875ae3d05f0bf0800000000000000
+      internalID: -355976974439054704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_57
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e46db238021487d0800000000000000
+      internalID: -2917186832208927519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 499
+        width: 292
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ed945078362e2a0800000000000000
+      internalID: -6709691063268155769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_59
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 465
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774448e1daea47cd0800000000000000
+      internalID: -2561230229502409609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_60
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 465
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181676881cc67c3d0800000000000000
+      internalID: -3186458632868372095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_61
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 500
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc739dbdb4fdda9c0800000000000000
+      internalID: -3914226984211105845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_62
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 500
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f83e017c3cfd7fb0800000000000000
+      internalID: -4648281903851489035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_63
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 500
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dbb9a247547ded0800000000000000
+      internalID: -2389364712063386253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_64
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 500
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ce89abf70304990800000000000000
+      internalID: -7403864462247531469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 301
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde8022efaaf37e00800000000000000
+      internalID: 1041451572172721883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 301
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466545db7a70400e0800000000000000
+      internalID: -2304708692289497500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_67
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 300
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277aefc0893f90a90800000000000000
+      internalID: -7347073482699659406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_68
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 300
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d9bd19d7c32f1e0800000000000000
+      internalID: -2165601960796119727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_69
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a27556e53c876a50800000000000000
+      internalID: 6514329549140226722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_70
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b5d230e53f619e0800000000000000
+      internalID: -1650864628278928527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_71
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 101
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c85133708c5a9660800000000000000
+      internalID: 7393323445040273602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_72
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 101
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f99acd7f40fc6b0800000000000000
+      internalID: -5273991176022024376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_73
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1d37ab063ba7f20800000000000000
+      internalID: 3421244094967697846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_74
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045e93ac049dc0e10800000000000000
+      internalID: 2165344393152292160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_75
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35bf6dafd5843ae0800000000000000
+      internalID: -1570483174311480004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesTransparent4_76
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ed14394ed24c660800000000000000
+      internalID: 7405094147050299032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
